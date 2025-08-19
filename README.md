@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vishaal69
+- 👋 Hi, I’m @vishaal
 - 👀 I’m interested in ...basketball
 - 🌱 I’m currently learning ...phython
 - 💞️ I’m looking to collaborate on ...python
